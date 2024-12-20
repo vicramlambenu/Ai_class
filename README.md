@@ -1,2 +1,4 @@
 # Ai_class
-Vicram L_ F55123005
+Nama  : Vicram L
+Nim   : F55123005
+Kelas : Ti a
